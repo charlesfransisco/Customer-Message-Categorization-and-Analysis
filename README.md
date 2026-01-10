@@ -76,4 +76,4 @@ WhatsApp,customer,67890,"Do you have any discounts?",2025-01-02 13:45:00
 
 ## License
 
-This project is provided for educational and demonstration purposes. Please review and update the license as appropriate for your use case.
+License Apache 2.0
