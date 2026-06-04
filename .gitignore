@@ -1,0 +1,25 @@
+# Sensitive customer/company data
+data/*
+!data/example_data.csv
+
+# Generated result files that may contain customer messages or IDs
+categorized_customer_messages.csv
+*.xlsx
+
+# Environment variables and API keys
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+secrets*.json
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local system files
+.DS_Store
+Thumbs.db
